@@ -1,0 +1,6 @@
+# Mac Files
+.DS_Store
+
+# folders
+./archive/
+./original-mp3-split
