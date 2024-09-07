@@ -3,4 +3,10 @@
 
 # folders
 archive/
+
+# Ignore original-mp3-split in all forms
+original-mp3-split
 ./original-mp3-split
+/original-mp3-split
+original-mp3-split/
+/original-mp3-split/
